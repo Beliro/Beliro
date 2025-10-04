@@ -16,7 +16,7 @@ My primary focus right now is strengthening my understanding of:
 
 ### 🚀 Featured Repository
 
-**[Python Beginner Projects](https://github.com/Beliro/Python-Beginner-Projects)**
+**[Python_Beginner_Projects](https://github.com/Beliro/Python-Beginner-Projects)**
 * A collection of simple, fundamental projects designed to solidify my core Python skills. It's where I practice what I learn!
 
 ---
